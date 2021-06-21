@@ -1,1 +1,1 @@
-- I am @FrontierPsychologist and I’m currently learning how to mod Cataclysm: Dark Days Ahead as a way to blacklist enemies/mobs I'm not fond of.
+- I am @FrontierPsychologist and I’m currently learning how to mod Cataclysm: Dark Days Ahead as a way to blacklist enemies/mobs.
